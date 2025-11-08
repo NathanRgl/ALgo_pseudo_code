@@ -1,3 +1,6 @@
+ALGO_PSEUDO_CODE
+
+
 Algo_Bonbons_total 
     Entrée (argent réel, prix réel)
     Sortie (bonbons)
